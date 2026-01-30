@@ -1,0 +1,30 @@
+C:\Users\helid\Documents\CSE 445\HW3\Part2\Part2\bin\Part2.dll.config
+C:\Users\helid\Documents\CSE 445\HW3\Part2\Part2\bin\Part2.dll
+C:\Users\helid\Documents\CSE 445\HW3\Part2\Part2\bin\Part2.pdb
+C:\Users\helid\Documents\CSE 445\HW3\Part2\Part2\obj\Debug\Part2.csproj.AssemblyReference.cache
+C:\Users\helid\Documents\CSE 445\HW3\Part2\Part2\obj\Debug\Part2.csproj.CoreCompileInputs.cache
+C:\Users\helid\Documents\CSE 445\HW3\Part2\Part2\obj\Debug\Part2.dll
+C:\Users\helid\Documents\CSE 445\HW3\Part2\Part2\obj\Debug\Part2.pdb
+C:\Users\helid\Documents\CSE 445\HW3\Part2\Part2\bin\Newtonsoft.Json.dll
+C:\Users\helid\Documents\CSE 445\HW3\Part2\Part2\bin\Newtonsoft.Json.xml
+C:\Users\helid\Documents\CSE 445\HW3\Part2\Part2\obj\Debug\Part2.csproj.CopyComplete
+C:\Users\helid\Documents\CSE 445\HW4\hw4partII\Part2\Part2\bin\Part2.dll.config
+C:\Users\helid\Documents\CSE 445\HW4\hw4partII\Part2\Part2\bin\Part2.dll
+C:\Users\helid\Documents\CSE 445\HW4\hw4partII\Part2\Part2\bin\Part2.pdb
+C:\Users\helid\Documents\CSE 445\HW4\hw4partII\Part2\Part2\bin\Newtonsoft.Json.dll
+C:\Users\helid\Documents\CSE 445\HW4\hw4partII\Part2\Part2\bin\Newtonsoft.Json.xml
+C:\Users\helid\Documents\CSE 445\HW4\hw4partII\Part2\Part2\obj\Debug\Part2.csproj.AssemblyReference.cache
+C:\Users\helid\Documents\CSE 445\HW4\hw4partII\Part2\Part2\obj\Debug\Part2.csproj.CoreCompileInputs.cache
+C:\Users\helid\Documents\CSE 445\HW4\hw4partII\Part2\Part2\obj\Debug\Part2.csproj.CopyComplete
+C:\Users\helid\Documents\CSE 445\HW4\hw4partII\Part2\Part2\obj\Debug\Part2.dll
+C:\Users\helid\Documents\CSE 445\HW4\hw4partII\Part2\Part2\obj\Debug\Part2.pdb
+C:\Desktop\hw4partII\Part2\Part2\bin\Part2.dll.config
+C:\Desktop\hw4partII\Part2\Part2\bin\Part2.dll
+C:\Desktop\hw4partII\Part2\Part2\bin\Part2.pdb
+C:\Desktop\hw4partII\Part2\Part2\bin\Newtonsoft.Json.dll
+C:\Desktop\hw4partII\Part2\Part2\bin\Newtonsoft.Json.xml
+C:\Desktop\hw4partII\Part2\Part2\obj\Debug\Part2.csproj.AssemblyReference.cache
+C:\Desktop\hw4partII\Part2\Part2\obj\Debug\Part2.csproj.CoreCompileInputs.cache
+C:\Desktop\hw4partII\Part2\Part2\obj\Debug\Part2.csproj.CopyComplete
+C:\Desktop\hw4partII\Part2\Part2\obj\Debug\Part2.dll
+C:\Desktop\hw4partII\Part2\Part2\obj\Debug\Part2.pdb

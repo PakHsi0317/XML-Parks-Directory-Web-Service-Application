@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Parks>
+    <Park type="Recreational">
+        <Owner>Federal Government</Owner>
+        <Name>Grand Canyon</Name>
+        <Reservation>
+            <Address>20 South Entrance Road Grand Canyon, AZ 86023</Address>
+            <Url>www.nps.gov/grca</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Arizona</State>
+            <State>Utah</State>
+            <State>Nevada</State>
+        </NeighboringStates>
+        <Establishedn Founder="Roosevelt">1919</Establishedn>
+    </Park>
+    <Park type="Visitational">
+        <Owner>Federal Government</Owner>
+        <Name>Yellowstone National Park</Name>
+        <Reservation>
+            <Address>2 Officers Row Yellowstone National Park, WY 82190</Address>
+            <Url>https://www.nps.gov/yell/index.htm</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Montana</State>
+            <State>Idaho</State>
+        </NeighboringStates>
+        <Establishedn Founder="RooseUlysses S. Grantvelt">1872</Establishedn>
+    </Park>
+    <Park type="Visitational">
+        <Owner>Federal Government</Owner>
+        <Name>Glacier National Park</Name>
+        <Reservation>
+            <Address>64 Grinnell Drive Glacier National Park Headquarters West Glacier, MT 59936</Address>
+            <Url>https://www.nps.gov/glac/index.htm</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Montana</State>
+        </NeighboringStates>
+        <Establishedn Founder="Louis W. Hill">1932</Establishedn>
+    </Park>
+    <Park type="Visitational">
+        <Owner>Federal Government</Owner>
+        <Name>Yosemite National Park</Name>
+        <Reservation>
+            <Address>Tioga Rd Hwy 120 and Hwy 140 Yosemite National Park, CA 95389</Address>
+            <Url>https://www.nps.gov/yose/index.htm</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>California</State>
+        </NeighboringStates>
+        <Establishedn Founder="Abraham Lincoln">1864</Establishedn>
+    </Park>
+    <Park type="Visitational">
+        <Owner>Federal Government</Owner>
+        <Name>Zion National Park</Name>
+        <Reservation>
+            <Address>1 Zion Park Blvd. Springdale, UT 84767</Address>
+            <Url>https://www.nps.gov/zion/index.htm</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Utah</State>
+        </NeighboringStates>
+        <Establishedn Founder="William Howard Taft">1909</Establishedn>
+    </Park>
+    <Park type="Visitational">
+        <Owner>Federal Government</Owner>
+        <Name>Bryce Canyon National Park</Name>
+        <Reservation>
+            <Address>Bryce Canyon National Park Highway 63 Bryce, UT 84764</Address>
+            <Url>https://www.nps.gov/brca/index.htm</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Utah</State>
+        </NeighboringStates>
+        <Establishedn Founder="Warren G. Harding">1923</Establishedn>
+    </Park>
+    <Park type="Visitational">
+        <Owner>Federal Government</Owner>
+        <Name>Sequoia National Park</Name>
+        <Reservation>
+            <Address>Sequoia National Park 47050 Generals Highway Three Rivers, CA 93271</Address>
+            <Url>https://www.nps.gov/seki/index.htm</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>California</State>
+        </NeighboringStates>
+        <Establishedn Founder="">1890</Establishedn>
+    </Park>
+    <Park type="Visitational">
+        <Owner>Federal Government</Owner>
+        <Name>Rocky Mountain National Park</Name>
+        <Reservation>
+            <Address>Rocky Mountain National Park 1000 US Hwy 36 Estes Park, CO 80517</Address>
+            <Url>https://www.nps.gov/romo/index.htm</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Colorado</State>
+        </NeighboringStates>
+        <Establishedn Founder="Woodrow Wilson">1915</Establishedn>
+    </Park>
+    <Park type="Visitational">
+        <Owner>Federal Government</Owner>
+        <Name>Hawai'i Volcanoes National Park</Name>
+        <Reservation>
+            <Address>Hawaii Volcanoes National Park 1 Crater Rim Drive Volcano, HI 96718</Address>
+            <Url>https://www.nps.gov/havo/index.htm</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Hawaii</State>
+        </NeighboringStates>
+        <Establishedn Founder="">1916</Establishedn>
+    </Park>
+    <Park type="Visitational">
+        <Owner>Federal Government</Owner>
+        <Name>Acadia National Park</Name>
+        <Reservation>
+            <Address>Acadia National Park 15 Visitor Center Road Bar Harbor, ME 04609</Address>
+            <Url>https://www.nps.gov/acad/index.htm</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Maine</State>
+        </NeighboringStates>
+        <Establishedn Founder="Woodrow Wilson">1916</Establishedn>
+    </Park>
+</Parks>
